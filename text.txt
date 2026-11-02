@@ -1,1 +1,1 @@
-This is my first Git experiment.
+This is branch b2.
