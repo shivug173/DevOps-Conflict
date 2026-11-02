@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is branch b1.
+=======
+This is branch b2.
+>>>>>>> b2
